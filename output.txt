@@ -1,0 +1,8 @@
+Lower dataset:
+Eratosthenes: 178657 micro seconds
+Sundaram: 156260 micro seconds
+Atkin: 197670 micro seconds
+Higher database:
+Eratosthenes: 695008 micro seconds
+Sundaram: 487128 micro seconds
+Atkin: 449900 micro seconds
